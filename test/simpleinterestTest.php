@@ -1,7 +1,7 @@
 <?php
 
-use Suhanov\WeblabLib\creditinterest\simpleinterest;
-use Suhanov\WeblabLib\excepcions\custexcept;
+use Gordanetto\WeblabLib\creditinterest\simpleinterest;
+use Gordanetto\WeblabLib\excepcions\custexcept;
 use PHPUnit\Framework\TestCase;
 
 class simpleinterestTest extends TestCase

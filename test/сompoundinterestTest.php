@@ -1,8 +1,8 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use Alex\WeblabLib\creditinterest\сompoundinterest;
-use Alex\WeblabLib\excepcions\custexcept;
+use Gordanetto\WeblabLib\creditinterest\сompoundinterest;
+use Gordanetto\WeblabLib\excepcions\custexcept;
 
 class сompoundinterestTest extends TestCase
 {

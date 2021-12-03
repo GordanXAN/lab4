@@ -1,8 +1,8 @@
 <?php
 
-namespace Alex\WeblabLib\creditinterest;
+namespace Gordanetto\WeblabLib\creditinterest;
 
-use Alex\WeblabLib\excepcions\custexcept;
+use Gordanetto\WeblabLib\excepcions\custexcept;
 
 class simpleinterest implements interfacepercent
 {

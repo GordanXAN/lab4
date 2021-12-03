@@ -1,6 +1,6 @@
 <?php
 
-namespace Alex\WeblabLib\creditinterest;
+namespace Gordanetto\WeblabLib\creditinterest;
 
 interface interfacepercent {
     /**

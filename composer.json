@@ -1,5 +1,5 @@
 {
-    "name": "alex/weblab-lib",
+    "name": "Gordanetto/weblab-lib",
     "type": "library",
     "require": {
         "phpunit/phpunit": "9.5.x-dev",
@@ -16,7 +16,7 @@
     },
     "authors": [
         {
-            "name": "Alex",
+            "name": "Gordanetto",
             "email": "xarbton2@gmail.com"
         }
     ],

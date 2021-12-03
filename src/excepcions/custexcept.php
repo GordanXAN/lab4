@@ -1,6 +1,6 @@
 <?php
 
-namespace Alex\WeblabLib\excepcions;
+namespace Gordanetto\WeblabLib\excepcions;
 
 class custexcept extends \Exception
 {
