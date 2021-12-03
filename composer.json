@@ -1,5 +1,5 @@
 {
-    "name": "Gordanetto/weblab-lib",
+    "name": "gordanetto/weblab-lib",
     "type": "library",
     "require": {
         "phpunit/phpunit": "9.5.x-dev",
@@ -11,12 +11,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Alex\\WeblabLib\\": "src/"
+            "Gordanetto\\WeblabLib\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Gordanetto",
+            "name": "gordanetto",
             "email": "xarbton2@gmail.com"
         }
     ],
